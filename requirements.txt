@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+newsapi-python
+nltk
+mysql-connector-python
+dash
+plotly
+pandas
+python-multipart
+python-dotenv
+wordcloud
